@@ -1,0 +1,15 @@
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\bin\Debug\net8.0\Repitition - Khadra.exe
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\bin\Debug\net8.0\Repitition - Khadra.deps.json
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\bin\Debug\net8.0\Repitition - Khadra.runtimeconfig.json
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\bin\Debug\net8.0\Repitition - Khadra.dll
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\bin\Debug\net8.0\Repitition - Khadra.pdb
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\obj\Debug\net8.0\Repitition - Khadra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\obj\Debug\net8.0\Repitition - Khadra.AssemblyInfoInputs.cache
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\obj\Debug\net8.0\Repitition - Khadra.AssemblyInfo.cs
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\obj\Debug\net8.0\Repitition - Khadra.csproj.CoreCompileInputs.cache
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\obj\Debug\net8.0\Repitition - Khadra.sourcelink.json
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\obj\Debug\net8.0\Repitition - Khadra.dll
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\obj\Debug\net8.0\refint\Repitition - Khadra.dll
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\obj\Debug\net8.0\Repitition - Khadra.pdb
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\obj\Debug\net8.0\Repitition - Khadra.genruntimeconfig.cache
+C:\Users\Khadr\OneDrive\Skrivebord\Programmering\Repetition\Khadra\Repitition - Khadra\Repitition - Khadra\obj\Debug\net8.0\ref\Repitition - Khadra.dll
