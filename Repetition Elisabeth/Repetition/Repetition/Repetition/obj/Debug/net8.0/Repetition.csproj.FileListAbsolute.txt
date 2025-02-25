@@ -1,0 +1,15 @@
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\obj\Debug\net8.0\Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\obj\Debug\net8.0\Repetition.AssemblyInfoInputs.cache
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\obj\Debug\net8.0\Repetition.AssemblyInfo.cs
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\obj\Debug\net8.0\Repetition.csproj.CoreCompileInputs.cache
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\obj\Debug\net8.0\Repetition.sourcelink.json
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\bin\Debug\net8.0\Repetition.exe
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\bin\Debug\net8.0\Repetition.deps.json
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\bin\Debug\net8.0\Repetition.runtimeconfig.json
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\bin\Debug\net8.0\Repetition.dll
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\bin\Debug\net8.0\Repetition.pdb
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\obj\Debug\net8.0\Repetition.dll
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\obj\Debug\net8.0\refint\Repetition.dll
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\obj\Debug\net8.0\Repetition.pdb
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\obj\Debug\net8.0\Repetition.genruntimeconfig.cache
+C:\Users\ehell\Documents\GitHub\Repetition\Repetition\Repetition Elisabeth\Repetition\Repetition\obj\Debug\net8.0\ref\Repetition.dll
