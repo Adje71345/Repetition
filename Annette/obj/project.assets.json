@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\annet\\Desktop\\Repetition programmering\\Repetition programmering Annette\\Repetition programmering Annette.csproj",
+      "projectUniqueName": "C:\\Git projekter\\Projekter 1. semester\\repetition\\Repetition\\Annette\\Repetition programmering Annette.csproj",
       "projectName": "Repetition programmering Annette",
-      "projectPath": "C:\\Users\\annet\\Desktop\\Repetition programmering\\Repetition programmering Annette\\Repetition programmering Annette.csproj",
+      "projectPath": "C:\\Git projekter\\Projekter 1. semester\\repetition\\Repetition\\Annette\\Repetition programmering Annette.csproj",
       "packagesPath": "C:\\Users\\annet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\annet\\Desktop\\Repetition programmering\\Repetition programmering Annette\\obj\\",
+      "outputPath": "C:\\Git projekter\\Projekter 1. semester\\repetition\\Repetition\\Annette\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

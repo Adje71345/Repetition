@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Repetition programmering Annette")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b8eac9daadc23e00d0decef37d0495a84b4bcc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Repetition programmering Annette")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Repetition programmering Annette")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

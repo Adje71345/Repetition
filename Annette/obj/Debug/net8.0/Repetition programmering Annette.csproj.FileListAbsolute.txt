@@ -1,0 +1,15 @@
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\bin\Debug\net8.0\Repetition programmering Annette.exe
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\bin\Debug\net8.0\Repetition programmering Annette.deps.json
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\bin\Debug\net8.0\Repetition programmering Annette.runtimeconfig.json
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\bin\Debug\net8.0\Repetition programmering Annette.dll
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\bin\Debug\net8.0\Repetition programmering Annette.pdb
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\obj\Debug\net8.0\Repetition programmering Annette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\obj\Debug\net8.0\Repetition programmering Annette.AssemblyInfoInputs.cache
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\obj\Debug\net8.0\Repetition programmering Annette.AssemblyInfo.cs
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\obj\Debug\net8.0\Repetition programmering Annette.csproj.CoreCompileInputs.cache
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\obj\Debug\net8.0\Repetition programmering Annette.sourcelink.json
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\obj\Debug\net8.0\Repetition programmering Annette.dll
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\obj\Debug\net8.0\refint\Repetition programmering Annette.dll
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\obj\Debug\net8.0\Repetition programmering Annette.pdb
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\obj\Debug\net8.0\Repetition programmering Annette.genruntimeconfig.cache
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\obj\Debug\net8.0\ref\Repetition programmering Annette.dll
