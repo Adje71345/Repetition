@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Repetitionsopgaver 7 til 16")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c0c322bb49262450c6d19b27be8b85d9c821719")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad2a4a4ba98a466e775822da2c205c3353cd284c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Repetitionsopgaver 7 til 16")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Repetitionsopgaver 7 til 16")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

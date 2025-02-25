@@ -1,0 +1,15 @@
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\bin\Debug\net8.0\Repetitionsopgaver 7 til 16.exe
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\bin\Debug\net8.0\Repetitionsopgaver 7 til 16.deps.json
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\bin\Debug\net8.0\Repetitionsopgaver 7 til 16.runtimeconfig.json
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\bin\Debug\net8.0\Repetitionsopgaver 7 til 16.dll
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\bin\Debug\net8.0\Repetitionsopgaver 7 til 16.pdb
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\obj\Debug\net8.0\Repetitionsopgaver 7 til 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\obj\Debug\net8.0\Repetitionsopgaver 7 til 16.AssemblyInfoInputs.cache
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\obj\Debug\net8.0\Repetitionsopgaver 7 til 16.AssemblyInfo.cs
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\obj\Debug\net8.0\Repetitionsopgaver 7 til 16.csproj.CoreCompileInputs.cache
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\obj\Debug\net8.0\Repetitionsopgaver 7 til 16.sourcelink.json
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\obj\Debug\net8.0\Repetitionsopgaver 7 til 16.dll
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\obj\Debug\net8.0\refint\Repetitionsopgaver 7 til 16.dll
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\obj\Debug\net8.0\Repetitionsopgaver 7 til 16.pdb
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\obj\Debug\net8.0\Repetitionsopgaver 7 til 16.genruntimeconfig.cache
+C:\Git projekter\Projekter 1. semester\repetition\Repetition\Annette\Repetitionsopgaver 7 til 16\obj\Debug\net8.0\ref\Repetitionsopgaver 7 til 16.dll
