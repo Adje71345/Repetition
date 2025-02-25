@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git projekter\\Projekter 1. semester\\repetition\\Repetition\\Annette\\Opgave 7-16\\Repetitionsopgaver 7 til 16\\Repetitionsopgaver 7 til 16.csproj",
+      "projectUniqueName": "C:\\Git projekter\\Projekter 1. semester\\repetition\\Repetition\\Annette\\Repetitionsopgaver 7 til 16\\Repetitionsopgaver 7 til 16.csproj",
       "projectName": "Repetitionsopgaver 7 til 16",
-      "projectPath": "C:\\Git projekter\\Projekter 1. semester\\repetition\\Repetition\\Annette\\Opgave 7-16\\Repetitionsopgaver 7 til 16\\Repetitionsopgaver 7 til 16.csproj",
+      "projectPath": "C:\\Git projekter\\Projekter 1. semester\\repetition\\Repetition\\Annette\\Repetitionsopgaver 7 til 16\\Repetitionsopgaver 7 til 16.csproj",
       "packagesPath": "C:\\Users\\annet\\.nuget\\packages\\",
-      "outputPath": "C:\\Git projekter\\Projekter 1. semester\\repetition\\Repetition\\Annette\\Opgave 7-16\\Repetitionsopgaver 7 til 16\\obj\\",
+      "outputPath": "C:\\Git projekter\\Projekter 1. semester\\repetition\\Repetition\\Annette\\Repetitionsopgaver 7 til 16\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
