@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Freelance\\Documents\\Datamatikker Udd\\Programmering\\Projekter\\Grundl\u00E6ggendeProgrammering\\Grundl\u00E6ggendeProgrammering\\",
+  "WorkspaceRootPath": "F:\\Freelance\\Documents\\Datamatikker Udd\\Programmering\\Repetition\\Michael\\Grundl\u00E6ggendeProgrammering\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5ADCDF4E-42B3-492E-BD46-741EB6058942}|Grundl\u00E6ggendeProgrammering.csproj|f:\\freelance\\documents\\datamatikker udd\\programmering\\projekter\\grundl\u00E6ggendeprogrammering\\grundl\u00E6ggendeprogrammering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5ADCDF4E-42B3-492E-BD46-741EB6058942}|Grundl\u00E6ggendeProgrammering.csproj|f:\\freelance\\documents\\datamatikker udd\\programmering\\repetition\\michael\\grundl\u00E6ggendeprogrammering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ADCDF4E-42B3-492E-BD46-741EB6058942}|Grundl\u00E6ggendeProgrammering.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Freelance\\Documents\\Datamatikker Udd\\Programmering\\Projekter\\Grundl\u00E6ggendeProgrammering\\Grundl\u00E6ggendeProgrammering\\Program.cs",
+              "DocumentMoniker": "F:\\Freelance\\Documents\\Datamatikker Udd\\Programmering\\Repetition\\Michael\\Grundl\u00E6ggendeProgrammering\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\Freelance\\Documents\\Datamatikker Udd\\Programmering\\Projekter\\Grundl\u00E6ggendeProgrammering\\Grundl\u00E6ggendeProgrammering\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "ToolTip": "F:\\Freelance\\Documents\\Datamatikker Udd\\Programmering\\Repetition\\Michael\\Grundl\u00E6ggendeProgrammering\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T08:29:08.349Z",
               "EditorCaption": ""
